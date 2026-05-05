@@ -1,0 +1,7 @@
+gradio
+python-dotenv
+huggingface_hub>=0.20.0
+transformers
+torch
+sentencepiece
+tiktoken
